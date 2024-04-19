@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/itsadiii01/itsadiii01/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
