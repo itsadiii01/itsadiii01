@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611r5d7hoifo7sfivikfb40m88mu7ooghij6r03stl4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
 
@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-
+<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611r5d7hoifo7sfivikfb40m88mu7ooghij6r03stl4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
